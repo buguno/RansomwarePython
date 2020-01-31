@@ -14,7 +14,7 @@ Instalando usando pip;
 Alterando a chave de criptografia
 ---------------------------------
 
-* Abra o arquivo main.py e altere a variavél global **HARDCODED_KEY**;
+* Abra o arquivo main.py e altere a variável global **HARDCODED_KEY**;
 * Por padrão, a chave usada é de 32 caractres (Chave AES de 256 bits);
 * **Fique atento à tabela abaixo**;
 
